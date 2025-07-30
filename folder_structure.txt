@@ -1,0 +1,26 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 3850-8250입니다.
+C:.
+│  folder_structure.txt
+│  README.md
+│  requirements.txt
+│  
+├─data
+│  │  animals.csv
+│  │  churn_data.csv
+│  │  winemag-data-130k-v2.csv
+│  │  winemag-data-130k-v2.json
+│  │  winemag-data_first150k.csv
+│  │  
+│  └─.ipynb_checkpoints
+├─notebooks
+│  ├─.ipynb_checkpoints
+│  └─kaggle_pandas
+│      │  01_creating_reading_writing.ipynb
+│      │  01_exercise_creating_reading.ipynb
+│      │  
+│      └─.ipynb_checkpoints
+│              01_creating_reading_writing-checkpoint.ipynb
+│              01_exercise_creating_reading-checkpoint.ipynb
+│              
+└─results
