@@ -124,7 +124,21 @@ customer\_churn\_prediction/
 
 ---
 
+🚧 진행 중 어려웠던 점
 
+* DataFrame는 2차원이기에 {}로 묶어주고, Series는 1차원이기에 \[]로 묶어준다.
+
+
+
+---
+
+💡 배운 점 및 느낀 점
+
+* DataFrame과 Series의 각 특징을 확실하게 이해하게 되었다.
+
+
+
+---
 
 \## ✍️ 작성자
 
