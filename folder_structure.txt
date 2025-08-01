@@ -20,11 +20,15 @@ C:.
 ¦¢      ¦¢  01_exercise_creating_reading.ipynb
 ¦¢      ¦¢  02_exercise_indexing_selecting_assigning.ipynb
 ¦¢      ¦¢  02_indexing_selecting_assigning.ipynb
+¦¢      ¦¢  03_exercise_summary function_maps.ipynb
+¦¢      ¦¢  03_summary function_maps.ipynb
 ¦¢      ¦¢  
 ¦¢      ¦¦¦¡.ipynb_checkpoints
 ¦¢              01_creating_reading_writing-checkpoint.ipynb
 ¦¢              01_exercise_creating_reading-checkpoint.ipynb
 ¦¢              02_exercise_indexing_selecting_assigning-checkpoint.ipynb
 ¦¢              02_indexing_selecting_assigning-checkpoint.ipynb
+¦¢              03_exercise_summary function_maps-checkpoint.ipynb
+¦¢              03_summary function_maps-checkpoint.ipynb
 ¦¢              
 ¦¦¦¡results
