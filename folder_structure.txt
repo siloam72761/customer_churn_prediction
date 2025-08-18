@@ -22,6 +22,12 @@ C:.
 ¦¢      ¦¢  02_indexing_selecting_assigning.ipynb
 ¦¢      ¦¢  03_exercise_summary function_maps.ipynb
 ¦¢      ¦¢  03_summary function_maps.ipynb
+¦¢      ¦¢  04_ex_grouping_sorting.ipynb
+¦¢      ¦¢  04_grouping_sorting.ipynb
+¦¢      ¦¢  05_data types_missing values.ipynb
+¦¢      ¦¢  05_ex_data types_missing values.ipynb
+¦¢      ¦¢  06_ex_Renaming_Combining.ipynb
+¦¢      ¦¢  06_Renaming_Combining.ipynb
 ¦¢      ¦¢  
 ¦¢      ¦¦¦¡.ipynb_checkpoints
 ¦¢              01_creating_reading_writing-checkpoint.ipynb
@@ -30,5 +36,11 @@ C:.
 ¦¢              02_indexing_selecting_assigning-checkpoint.ipynb
 ¦¢              03_exercise_summary function_maps-checkpoint.ipynb
 ¦¢              03_summary function_maps-checkpoint.ipynb
+¦¢              04_ex_grouping_sorting-checkpoint.ipynb
+¦¢              04_grouping_sorting-checkpoint.ipynb
+¦¢              05_data types_missing values-checkpoint.ipynb
+¦¢              05_ex_data types_missing values-checkpoint.ipynb
+¦¢              06_ex_Renaming_Combining-checkpoint.ipynb
+¦¢              06_Renaming_Combining-checkpoint.ipynb
 ¦¢              
 ¦¦¦¡results
