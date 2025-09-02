@@ -8,6 +8,7 @@ C:.
 ¦§¦¡data
 ¦¢  ¦¢  animals.csv
 ¦¢  ¦¢  churn_data.csv
+¦¢  ¦¢  customer_churn_preprocessed.csv
 ¦¢  ¦¢  winemag-data-130k-v2.csv
 ¦¢  ¦¢  winemag-data-130k-v2.json
 ¦¢  ¦¢  winemag-data_first150k.csv
@@ -15,6 +16,16 @@ C:.
 ¦¢  ¦¦¦¡.ipynb_checkpoints
 ¦§¦¡notebooks
 ¦¢  ¦§¦¡.ipynb_checkpoints
+¦¢  ¦§¦¡churn_project
+¦¢  ¦¢  ¦¢  01_eda.ipynb
+¦¢  ¦¢  ¦¢  02_Preprocesing.ipynb
+¦¢  ¦¢  ¦¢  03_modeling.ipynb
+¦¢  ¦¢  ¦¢  
+¦¢  ¦¢  ¦¦¦¡.ipynb_checkpoints
+¦¢  ¦¢          01_eda-checkpoint.ipynb
+¦¢  ¦¢          02_Preprocesing-checkpoint.ipynb
+¦¢  ¦¢          03_modeling-checkpoint.ipynb
+¦¢  ¦¢          
 ¦¢  ¦¦¦¡kaggle_pandas
 ¦¢      ¦¢  01_creating_reading_writing.ipynb
 ¦¢      ¦¢  01_exercise_creating_reading.ipynb
